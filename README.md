@@ -1,1 +1,2 @@
-# imageHoster
+# ImageHoster
+Image Hoster - Assignment
